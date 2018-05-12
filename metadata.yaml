@@ -1,0 +1,29 @@
+_repo: Burne-JonesMasterpieces-in-Colour-Series_41583
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41583-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Baldry, A. L. (Alfred Lys)
+    alias: Baldry, Alfred Lys
+    birthdate: &id001 1858
+    deathdate: *id001
+    gutenberg_agent_id: '38541'
+    url: http://www.gutenberg.org/2009/agents/38541
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2012-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcsh 'Burne-Jones, Edward Coley, 1833-1898'
+- !lcc 'ND'
+title: Burne-Jones
+url: http://www.gutenberg.org/ebooks/41583
